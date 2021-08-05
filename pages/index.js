@@ -16,10 +16,7 @@ export default function Home() {
 
         <p className={styles.description}>
           
-          <code className={styles.code}>Desenvolvedor_Web = { 
-          linguagem: ['PHP', 'JavaScript', 'Python'],
-          plataformas: ['Magento', 'Wordpress']
-          };</code>
+          <code className={styles.code}>Desenvolvedor Web [PHP] [Magento] [Wordpress]</code>
         </p>
 
         <div className={styles.grid}>
